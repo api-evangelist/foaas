@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://www.foaas.com/
 common:
+  - type: DomainSecurity
+    url: security/foaas-domain-security.yml
   - type: Website
     url: http://www.foaas.com/
   - type: PublicAPIsListing
