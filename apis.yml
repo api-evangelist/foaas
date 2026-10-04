@@ -39,7 +39,6 @@ apis:
   - name: FOAAS
     description: "Fuck Off As A Service"
     humanURL: http://www.foaas.com/
-    baseURL: http://www.foaas.com/
     tags:
       - Personality
     properties:
